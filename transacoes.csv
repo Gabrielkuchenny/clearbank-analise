@@ -1,0 +1,31 @@
+id,data,cliente_id,tipo,valor,descricao,categoria
+1,2026-01-05,CLI001,credito,3500.00,Salário janeiro,salario
+2,2026-01-12,CLI002,debito,180.50,Supermercado,compra
+3,2026-01-18,CLI004,debito,1250.00,Aluguel,moradia
+4,2026-01-20,CLI001,debito,abc,Erro de sistema,compra
+5,2026-01-25,CLI003,credito,850.00,Freelance de design,servico
+6,2026-01-28,CLI001,debito,89.90,Farmácia,saude
+7,2026-02-03,,debito,200.00,Sem cliente,transferencia
+8,2026-02-05,CLI001,credito,3500.00,Salário fevereiro,salario
+,2026-02-10,CLI002,debito,75.00,Registro sem id,compra
+9,2026-02-14,CLI003,credito,15000.00,Transferência recebida,transferencia
+10,2026-02-18,CLI002,debito,320.00,Conta de luz,conta
+11,2026-02-22,CLI005,debito,640.75,Material de escritório,compra
+12,2026-02-30,CLI004,debito,100.00,Data inexistente,compra
+13,2026-03-01,CLI001,credito,3500.00,Salário março,salario
+14,2026-03-10,CLI003,debito,99.90,Streaming,assinatura
+15,15/03/2026,CLI003,credito,500.00,Data no formato errado,servico
+16,2026-03-15,CLI004,debito,12500.00,Compra de veículo,compra
+17,2026-03-18,CLI005,pix,300.00,Tipo inválido,transferencia
+18,2026-03-21,CLI002,credito,2200.00,Reembolso,transferencia
+19,2026-03-24,CLI002,debito,-50.00,Valor negativo,compra
+20,2026-03-29,CLI005,debito,45.00,Estacionamento,transporte
+13,2026-03-01,CLI001,credito,3500.00,Salário março,salario
+21,2026-04-02,CLI001,credito,3500.00,Salário abril,salario
+abc,2026-04-04,CLI003,debito,60.00,ID não numérico,compra
+22,2026-04-08,CLI004,credito,22750.00,Venda de imóvel,transferencia
+23,2026-04-15,CLI002,debito,410.30,Internet e telefone,conta
+24,2026-04-18,CLI003,credito,0,Valor zerado,transferencia
+25,2026-04-20,CLI003,debito,1500.00,Mensalidade da faculdade,educacao
+26,2026-04-27,CLI005,debito,230.00,Restaurante,alimentacao
+27,2026-04-30,CLI001,debito,10000.00,Transferência no limite,transferencia
